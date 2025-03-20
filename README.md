@@ -104,4 +104,8 @@ Open to contributions! Feel free to fork and improve.
 ## 👩‍💻 Author
 **Ayushi Gaur** - _Frontend Developer_
 
----
+
+Live demo :🔗 **Live Demo:** [https://landingpage-peach-ten.vercel.app/](https://landingpage-peach-ten.vercel.app/)
+
+
+
